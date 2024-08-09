@@ -20,7 +20,7 @@ logger.add(sink=sys.stdout, format="<white>{time:YYYY-MM-DD HH:mm:ss}</white>"
 logger = logger.opt(colors=True)
 
 # Token bot Telegram Anda
-BOT_TOKEN = 'TOKEN BOT'
+BOT_TOKEN = '1589394436:AAEsdGETX91vwt_If-jYDIFWNZgfcP6fnq8'
 
 games = {
     1: {
